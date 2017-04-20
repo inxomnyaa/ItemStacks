@@ -16,7 +16,7 @@ Well, it could lag a bit when there are too many dropped items in the world, but
 ## How can we thank you for the plugin?
 Use it ;)
 Thats quite all. Just use it, share it with your friends.
-If you want, you can even donate me some coins and bucks: https://goo.gl/wTVhdP
+If you want, you can even donate me some coins and bucks: https://www.paypal.me/XenialDan
 
 ## Can we modify the plugin?
 Yes, due to the license. (Why in the world would you need to modify the plugin anyways? xD). Just keep my name in the authors please.
