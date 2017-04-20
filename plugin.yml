@@ -1,0 +1,8 @@
+  name: ItemStacks
+  main: xenialdan\ItemStacks\Loader
+  description: Stack items to lag
+  version: 0.1.0
+  api: ['*', '3.0.0-ALPHA5']
+  load: POSTWORLD
+  authors: [XenialDan]
+  prefix: "ItemStacks by XenialDan"

@@ -1,0 +1,4 @@
+---
+# Set speed for check task in seconds. 15 is default
+task-speed: 15
+...
