@@ -1,8 +1,15 @@
-  name: ItemStacks
-  main: xenialdan\ItemStacks\Loader
-  description: Stack items to reduce lag
-  version: 0.1.1
-  api: ['3.0.0-ALPHA7']
-  load: POSTWORLD
-  authors: [XenialDan]
-  prefix: "ItemStacks by XenialDan"
+---
+name: ItemStacks
+main: xenialdan\ItemStacks\Loader
+description: Stack items to reduce lag
+version: 0.1.1
+api:
+- 3.0.0-ALPHA7
+- 3.0.0-ALPHA8
+- 3.0.0-ALPHA9
+- 3.0.0-ALPHA10
+load: POSTWORLD
+authors:
+- XenialDan
+prefix: ItemStacks by XenialDan
+...
