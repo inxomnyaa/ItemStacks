@@ -30,6 +30,7 @@ class StackTask extends Task{
 							//stack
 							$this->plugin->getLogger()->debug('Stacked ' . $entity->getItem() . ' with ' . $possibleItem->getItem());
 							$entity->getItem()->setCount($newCount);
+							$entity->respawnToAll();
 							$this->plugin->getLogger()->debug('got item ' . $entity->getItem());
 							$possibleItem->close();
 						}
