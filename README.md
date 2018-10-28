@@ -7,9 +7,6 @@ It simply stacks the items like MC PC (Java) Edition does, so reducing the amoun
 ## How does it work?
 It simply executes a task every 15 ticks (changeable in config), which then checks for each item if they are equal and stackable
 
-## It looks like my items disappeared and i only got one item now!
-Yes, thats a slight issue. Its just visual though, the item will still contain the whole stack, but look like its only 1 item
-
 ## Does this lag?
 Well, it could lag a bit when there are too many dropped items in the world, but after they stack together the lag will be less then before the mass of items
 
